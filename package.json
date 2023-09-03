@@ -1,0 +1,12 @@
+{
+  "name": "parkeasy",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "client": "cd client && npm run dev",
+    "build": "cd client && npm run build",
+    "server": "cd server && nodemon"
+  },
+  "author": "",
+  "license": "ISC"
+}
